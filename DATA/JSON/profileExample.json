@@ -1,0 +1,47 @@
+[{
+  "title": "Introdução ao Node.js",
+  "description": "Um guia completo para iniciantes em desenvolvimento backend com Node.js.",
+  "author": "João Silva",
+  "code": "NODEJS101",
+  "publishedYear": 2023,
+  "theme": "Tecnologia",
+  "pages": 320,
+  "language": "pt-BR",
+  "status": true,
+  "coverImage": "https://example.com/images/nodejs-cover.jpg",
+  "createdBy": "64f1c2e9a5b3f2a1d4e9c123",
+  "isActive": true,
+  "cover": "64f1c2e9a5b3f2a1d4e9c456",
+  "pdf": "64f1c2e9a5b3f2a1d4e9c789",
+  "icon": "64f1c2e9a5b3f2a1d4e9c321",
+  "sinopsis": "Este livro apresenta os fundamentos do Node.js e como construir aplicações escaláveis.",
+  "url": "https://example.com/books/nodejs-intro",
+  "repository": "https://github.com/joaosilva/nodejs-book",
+  "documentations": [
+    "https://nodejs.org/docs",
+    "https://expressjs.com/docs"
+  ],
+  "comments": [
+    {
+      "user": "64f1c2e9a5b3f2a1d4e9c999",
+      "comment": "Excelente leitura para quem está começando!",
+      "date": "2025-08-29T19:00:00.000Z"
+    }
+  ],
+  "ratings": [
+    {
+      "user": "64f1c2e9a5b3f2a1d4e9c888",
+      "rating": 5
+    }
+  ],
+  "likes": 120,
+  "dislikes": 3,
+  "views": 1500,
+  "downloads": 450,
+  "tags": ["Node.js", "Backend", "JavaScript", "Express"],
+  "createdAt": "2025-08-29T18:45:00.000Z",
+  "updatedAt": "2025-08-29T19:15:00.000Z",
+  "deleted": false,
+  "deletedAt": null
+}
+]
